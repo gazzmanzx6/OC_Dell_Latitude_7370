@@ -1,4 +1,4 @@
-# OC_Dell_Latitude_7370
+# OC Dell Latitude 7370
 OpenCore EFI MacOS Catalina on Dell Latitude 7370
 
 Use at your own risk! I can not be held responsible for any damage done.
@@ -32,6 +32,7 @@ Working:
 - unlock with Apple Watch
 - iMessage
 - FaceTime
+- SideCar
 - headphone jack (using ComboJack https://github.com/hackintosh-stuff/ComboJack)
 
 Not working:
@@ -54,5 +55,5 @@ BIOS setting:
 BIOS tweaks:
 
   - disable CFG Lock: **setup_var 0x109 0x0**   Verify before use (extracted from BIOS 1.18.5)
-  - increase DVMT:    **setup_var 0x432 0x3**    Verify before use (extracted from BIOS 1.18.5)
+  - increase DVMT:    **setup_var 0x432 0x3**   Verify before use (extracted from BIOS 1.18.5)
 
