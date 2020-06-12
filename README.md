@@ -9,7 +9,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - 16 GB 1866 MHz LPDDR3 RAM
 - PC300 NVMe SK hynix 256GB
 - Broadcom BCM943602CS (using M.2 Key A+E adapter) with third antenna
-- Sierra Wireless EM7345 4G LTE WWAN
+- Dell 5809e Gobi (Sierra Wireless EM7305) 4G LTE WWAN
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
 - BIOS version 1.18.5
@@ -34,9 +34,10 @@ Working:
 - FaceTime
 - SideCar
 - headphone jack (using ComboJack https://github.com/hackintosh-stuff/ComboJack)
+- WWAN (O2-UK settings: no password or username, APN: m-bb.o2.co.uk)
 
 Not working:
-- WWAN
+- nothing
 
 Not tested:
 - mini HDMI port (don't have that type of cable)
