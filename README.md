@@ -35,12 +35,10 @@ Working:
 - SideCar
 - headphone jack (using ComboJack https://github.com/hackintosh-stuff/ComboJack)
 - WWAN (O2-UK settings: no password or username, APN: m-bb.o2.co.uk)
+- micro HDMI port
 
 Not working:
 - nothing
-
-Not tested:
-- mini HDMI port (don't have that type of cable)
 
 Recommended tools:
 - MountEFI (mount EFI folder under MacOS)
