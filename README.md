@@ -30,7 +30,7 @@ Working:
 - USB-C DisplayPort/Data/Thunderbolt3
 - Handoff
 - unlock with Apple Watch
-- iMessage
+- Messages
 - FaceTime
 - SideCar
 - headphone jack (using ComboJack https://github.com/hackintosh-stuff/ComboJack)
