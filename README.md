@@ -34,7 +34,9 @@ Working:
 - FaceTime
 - SideCar
 - headphone jack (using ComboJack https://github.com/hackintosh-stuff/ComboJack)
-- WWAN (O2-UK settings: no password or username, APN: m-bb.o2.co.uk)
+- WWAN
+  - (O2-UK settings: no password or username, APN: m-bb.o2.co.uk)
+  - (PlusNet settings: leave all fields blank)
 - micro HDMI port
 
 Not working:
@@ -53,6 +55,7 @@ BIOS setting:
 
 BIOS tweaks:
 
-  - disable CFG Lock: **setup_var 0x109 0x0**   Verify before use (extracted from BIOS 1.18.5)
+  - disable CFG Lock: ~**setup_var 0x109 0x0**   Verify before use (extracted from BIOS 1.18.5)~\
+    Use CFGLock tool to find and toggle value
   - increase DVMT:    **setup_var 0x432 0x3**   Verify before use (extracted from BIOS 1.18.5)
 
