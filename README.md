@@ -27,7 +27,7 @@ Working:
 - keyboard with backlight
 - function keys (using Karabiner)
 - microSD cardreader
-- USB-C hotplug
+- USB-C/Thunderbolt hotplug
 - Handoff
 - unlock with Apple Watch
 - Messages
@@ -40,7 +40,7 @@ Working:
 - micro HDMI port
 
 Not working:
-- Thunderbolt (work in progress)
+- nothing
 
 Recommended tools:
 - MountEFI (mount EFI folder under MacOS)
