@@ -59,7 +59,7 @@
 				<key>Default</key>
 				<dict>
 					<key>ActLikeTrackpad</key>
-					<false/>
+					<true/>
 					<key>ButtonCount</key>
 					<integer>3</integer>
 					<key>Darwin 16+</key>
