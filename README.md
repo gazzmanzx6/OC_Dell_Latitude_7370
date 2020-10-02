@@ -13,7 +13,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
 - BIOS version 1.19.5
-- OpenCore v0.6.0
+- OpenCore v0.6.1
 - MacBook9,1 as SMBIOS
 
 
