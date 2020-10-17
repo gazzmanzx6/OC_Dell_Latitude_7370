@@ -1,1 +1,6 @@
 config.plist
+EFI/OC/Tools/.DS_Store
+EFI/OC/.DS_Store
+EFI/OC/ACPI/.DS_Store
+EFI/OC/Drivers/.DS_Store
+EFI/OC/Kexts/.DS_Store
