@@ -12,7 +12,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - Dell 5809e Gobi (Sierra Wireless EM7305) 4G LTE WWAN
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
-- BIOS version 1.19.5
+- BIOS version 1.20.3
 - OpenCore v0.6.2
 - MacBook9,1 as SMBIOS
 
