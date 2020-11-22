@@ -7,7 +7,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - Intel m7-6Y75 Dual-Core
 - Intel HD515
 - 16 GB 1866 MHz LPDDR3 RAM
-- PC300 NVMe SK hynix 256GB
+- WD NVME 500GB
 - Broadcom BCM943602CS (using M.2 Key A+E adapter) with third antenna
 - Dell 5809e Gobi (Sierra Wireless EM7305) 4G LTE WWAN
 - 1920x1080@60Hz HD Display
