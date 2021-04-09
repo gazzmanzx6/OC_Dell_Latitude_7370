@@ -13,7 +13,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
 - BIOS version 1.22.3
-- OpenCore v0.6.7
+- OpenCore v0.6.8
 - MacBook9,1 as SMBIOS
 
 
@@ -45,6 +45,7 @@ Not working:
 Recommended tools:
 - MountEFI (mount EFI folder under MacOS)
 - PlistEdit Pro (edit config.plist with GUI)
+- DeltaWalker (compare config.plist)
 
 
 BIOS setting:
