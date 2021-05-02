@@ -12,7 +12,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - Dell 5809e Gobi (Sierra Wireless EM7305) 4G LTE WWAN
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
-- BIOS version 1.22.3
+- BIOS version 1.23.3
 - OpenCore v0.6.8
 - MacBook9,1 as SMBIOS
 
@@ -58,5 +58,5 @@ BIOS tweaks:
 
   - disable CFG Lock: ~**setup_var 0x109 0x0**   Verify before use (extracted from BIOS 1.19.5)~\
     Use CFGLock tool to find and toggle value
-  - increase DVMT:    **setup_var 0x432 0x3**   Verify before use (extracted from BIOS 1.22.3)
+  - increase DVMT:    **setup_var 0x432 0x3**   Verify before use (extracted from BIOS 1.23.3)
 
