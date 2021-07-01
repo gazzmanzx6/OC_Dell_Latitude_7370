@@ -13,7 +13,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
 - BIOS version 1.23.3
-- OpenCore v0.6.9
+- OpenCore v0.7.0
 - MacBook9,1 as SMBIOS
 
 
@@ -52,7 +52,7 @@ BIOS setting:
 - System Configuration > Thunderbolt Adapter Configuration
   - Security level - No Security
 - Virtualization Support > VT for Direct I/O
-  - Disabled
+  - Enabled (Now required for Thunderbolt to work in Big Sur)
 
 BIOS tweaks:
 
