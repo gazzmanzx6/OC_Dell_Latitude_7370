@@ -1,5 +1,5 @@
 # OC Dell Latitude 7370
-OpenCore EFI MacOS Catalina or Big Sur on Dell Latitude 7370
+OpenCore EFI MacOS Big Sur on Dell Latitude 7370
 
 Use at your own risk! I can not be held responsible for any damage done.
 
@@ -13,7 +13,7 @@ Use at your own risk! I can not be held responsible for any damage done.
 - 1920x1080@60Hz HD Display
 - Realtek ALC256 Audio (rebranded as ALC3246)
 - BIOS version 1.25.4
-- OpenCore v0.7.3
+- OpenCore v0.7.4
 - MacBook9,1 as SMBIOS
 
 
